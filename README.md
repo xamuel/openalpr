@@ -8,6 +8,7 @@ GCP command
 3.sudo service flask status
 4.Change verfycarplate external ip ,external ip get from gcp
 5.server.py put outside openalpr
+
 ================================================================================================================
 
 openalpr
