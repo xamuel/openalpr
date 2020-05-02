@@ -1,3 +1,15 @@
+GCP command
+================================================================================================================
+1.sudo service flask status
+2.sudo /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 5000 
+
+(https://l.messenger.com/l.php?u=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F25709716%2Fsocket-error-errno-13-permission-denied-when-creating-a-fake-email-server&h=AT20qoHUnx21w52KJ6fDW7Axr8LlAKK0_z3NnK-WWL6I-28dFRkhpGvpoDR32LT1Z7LdoAVYBtYQev8i8JQ5EfIAksoC9AN2F5rFOJjuFqiEg_f6bkrtigDCw77iYfcxojVBzA)
+
+3.sudo service flask status
+4.Change verfycarplate external ip ,external ip get from gcp
+5.server.py put outside openalpr
+================================================================================================================
+
 openalpr
 ========
 
